@@ -1,6 +1,6 @@
 Nobody knows much about me, and I prefer to keep it that way :)
 
-![][1] ![][1] ![][1]
+![][1] ![][1]
 
 ```cpp
 void hobbies() {
