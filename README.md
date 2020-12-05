@@ -1,6 +1,6 @@
 Nobody knows much about me, and I prefer to keep it that way :)
 
-![][1] ![][1]
+![][1]
 
 ```cpp
 void hobbies() {
@@ -15,4 +15,4 @@ void hobbies() {
 *Disclaimer: The content I submit on this site are my own, and do not
 necessarily represent the policies, strategies or opinions of my employer(s).*
 
-[1]: https://user-images.githubusercontent.com/8516784/101212348-91672a00-3646-11eb-8313-08dffbfd8cf8.gif
+[1]: https://user-images.githubusercontent.com/8516784/101267099-4bcc5f00-3723-11eb-9c07-a0307f83795c.gif
