@@ -10,7 +10,7 @@ Feel free to reach out to me for a chat, or let's meetup for beers :beers:.
 
 :envelope: github <!-- -->/at/<!-- --> quantumpacket.com
 
-:key: [05C0 2805 985B 8F10 3A83 A601 4563 075E FE953 958][2] <sup>ed25519</sup>
+:key: [05C0 2805 985B 8F10 3A83 A601 4563 075E FE95 3958][2] <sup>ed25519</sup>
 
 ---
 
